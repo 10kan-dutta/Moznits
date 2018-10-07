@@ -12,12 +12,12 @@
     <a-box color="#50EF71" position=".15 1.2 -5.4" rotation="10 45 25" scale=".9 .9 .9"></a-box>
 
     <!--eight column-->
-    <a-box color="#0912BA" position="-0.5 .9 -4.5" rotation="10 45 25" scale=".9 .9 .9"></a-box>
+    <a-box color="#0912BA" position="-0.4 .993 -4.8" rotation="10 45 25" scale=".9 .9 .9"></a-box>
     <a-box color="#50EF71" position="-0.6 1.8 -4.4" rotation="10 45 25" scale=".9 .9 .9"></a-box>
     <a-box color="#F40F2B" position="-0.67 2.36 -3.85" rotation="10 45 25" scale=".9 .9 .9"></a-box>
 
     <!--seventh column-->
-    <a-box color="yellow" position="-.95 .6 -4.05" rotation="10 45 25" scale=".8 .8 .8"></a-box>
+    <a-box color="yellow" position="-1.02 .551 -4.16" rotation="10 45 25" scale=".8 .8 .8"></a-box>
     <a-box color="#F40F2B" position="-1.1 1.25 -3.8" rotation="10 45 25" scale=".8 .8 .8"></a-box>
     <a-box color="#0912BA" position="-1.25 1.95 -3.5" rotation="10 45 25" height="1.4" scale=".8 .8 .8"></a-box>
 
@@ -37,8 +37,8 @@
     <a-box color="#F40F2B" position="-.9 1.9 -3" rotation="10 45 25" height="1.4" scale=".65 .65 1"></a-box>
 
     <!--third column-->
-    <a-box color="#0912BA" position=".89 1.8 -3.8" rotation="10 45 25" scale=".9 .9 .9"></a-box>
-    <a-box color="white" position="0.81 2.5 -3.4" rotation="10 45 25" scale=".85 .85 .85" height=".98"></a-box>
+    <a-box color="#0912BA" position="1.01 1.839 -3.82" rotation="10 45 25" scale=".9 .9 .9"></a-box>
+    <a-box color="white" position="0.885 2.584 -3.58" rotation="10 45 25" scale=".85 .85 .85" height=".98"></a-box>
     <a-box color="#F40F2B" position="1.1 1 -4.2" rotation="10 45 25" scale=".9 .9 .9" ></a-box>
 
     <!--second column-->
@@ -56,7 +56,6 @@
     <a-text value="RUBIK'S CUBE" height="8" width="20" position="5 3 -5" rotation="0 -90 0" color="black"></a-text>
 
     <a-sky color="#A6EEF4"></a-sky>
-
   </a-scene>
 
 </body>
